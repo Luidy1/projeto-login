@@ -30,11 +30,6 @@ Grandes telas: acima de 1200px
         width: 70%;
     }
 
-    div#campo > label {
-        
-    }
-}
-
 @media screen and (min-width: 992px) {
     
     body {
